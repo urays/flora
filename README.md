@@ -6,7 +6,6 @@
 
 <h5 style="color: #5F7396; font-size: 18px;">MEMORY IN FRAGMENTS. UNDERSTANDING TAKES SHAPE.</h5>
 
-<em>Dedicated to Sophia.</em>
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-3F6BD6?style=flat-square&labelColor=20307C)](LICENSE)
 
